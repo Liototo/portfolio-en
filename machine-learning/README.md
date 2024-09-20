@@ -1,22 +1,21 @@
-# Projet d'"Introduction to machine learning": méthodes d'apprentissage automatique
+# "Introduction to machine learning" project: machine learning methods
 
-Développé par Eliott Bell, Dmitry Teploukhov et Santhos Umabalan
+Developed by Eliott Bell, Dmitry Teploukhov and Santhos Umabalan
 
-Bachelor, semestre 3 (sept. 2022 - janv. 2023), EPFL (Ecole Polytechnique Fédérale de Lausanne)
+Bachelor, semester 3 (sep. 2022 - jan. 2023), EPFL (Ecole Polytechnique Fédérale de Lausanne)
 
-
-Ce projet consiste en l'implémentation de plusieurs algorithmes d'apprentissage automatique: régression ridge, régression logistique, k plus proches voisins et réseaux neuraux, ainsi que d'autres méthodes utiles telles que la validation croisée et l'analyse en composantes principales.
+This project consisted in the implementation of multiple machine learning algorithms: ridge regression, logistic regression, k-nearest neighbours and neural networks, as well as other useful techniques such as cross-validation and principal component analysis.
 
 ### Travail effectué
 
-Dans le dossier methods/, nous avons implémenté les méthodes des fichiers cross_validation.py, deep_network.py, knn.py, linear_regression.py, logistic_regression.py, pca.py. Nous avons aussi implémenté plusieurs parties de main.py, à savoir l'extraction des arguments et le choix des méthodes à appeler.
+In the methods/ folder, we implemented methods in the files cross_validation.py, deep_network.py, knn.py, linear_regression.py, logistic_regression.py and pca.py. We also implemented several parts of main.py, mainly the extraction of parameters.
 
 ### Compétences acquises/travaillées
 
-- Apprentissage automatique
+- Machine learning
 
-- Programmation en Python
+- Python programming
 
-- Appréhension, compréhension et modification de code préexistant
+- Understanding and appending pre-existing code
 
-- Travail d'équipe et organisation
+- Teamwork and organisation

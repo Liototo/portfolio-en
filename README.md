@@ -1,29 +1,29 @@
-# Bienvenue dans mon portfolio!
+# Welcome to my portfolio!
 
-J'utilise ce référentiel GitHub pour présenter divers projets sur lesquels j'ai pu travailler durant mes études d'informatique.
+I use this GitHub repository to present various projects I got to work on during my studies in computer science.
 
-## [Projet 1: Interaction personne-système (jeu Unity)](./jeu-unity/)
+## [Project 1: Human-computer interaction (Unity game)](./unity-game/)
 
-Un jeu compétitif à deux joueurs. Offre deux modes de jeux ainsi que la possible connectivité à des Cellulos (dispositifs à retour de force conçus à l'EPFL).
+A competitive two-player game. Features two game modes as well as possible Cellulo connectivity (Cellulos are EPFL-developed robots with haptic feedback).
 
 <p align="center"><img src="Resources\sgs_maze.png" width="50%"></p>
 
-## [Projet 2: Introduction to machine learning (méthodes d'apprentissage automatique)](./machine-learning/)
+## [Project 2: Introduction to machine learning (machine learning methods)](./machine-learning/)
 
-Plusieurs méthodes courantes de machine learning, implémentées directement dans la console Python.
+Several common machine learning methods, directly implemented inside the Python console.
 
-## [Projet 3: Projet programmation système (système de fichiers)](./systeme-fichiers/)
+## [Project 3: System programming project (file system)](./file-system/)
 
-Une version simplifiée du système de fichiers Unix version 6, utilisable à travers l'invite de commandes Linux.
+A simplified version of the Unix version 6 file system, using the Linux terminal.
 
-## [Projet 4: Projet de recherche en informatique (collaboration en temps réel)](./collaboration-temps-reel/)
+## [Project 4: Computer science research project (real-time collaboration)](./real-time-collaboration/)
 
-Une version augmentée de l'extension jupyter-collaboration pour la collaboration en temps réel sur les notebooks Jupyter. Implémente plusieurs fonctionnalités visant à rendre l'extension plus pratique, en particulier dans des contextes éducatifs.
+An augmented version of the jupyter-collaboration extension for real-time collaboration on Jupyter notebooks. Implements multiple features aiming to make the extension a more practical tool, especially in educational contexts.
 
 <p align="center"><img src="Resources\jup_chat.png" width="20%"> <img src="Resources\jup_poll.png" width="20%"></p>
 
-## [Projet 5: The software enterprise - from ideas to products (application Android)](./app-android/)
+## [Project 5: The software enterprise - from ideas to products (Android application)](./app-android/)
 
-Une application pour smartphones Android utilisant un compteur de pas et des fonctionnalités sociales pour rendre l'activité physique quotidienne ludique et compétitive.
+An Android application using a step counter and social features to turn physical activity into a competitive game.
 
 <p align="center"><img src="Resources\sq_lb.png" width="15%"> <img src="Resources\sq_path.png" width="15%"></p>
